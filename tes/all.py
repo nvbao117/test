@@ -12,4 +12,11 @@ aa
 a
 a
 
-print("aa")
+C
+A
+A
+B
+B
+C
+
+print("iiaa")
